@@ -5,3 +5,7 @@
 - In this program, customers can open their accounts.
 - Customers can deposit, withdraw and transfer money
 - The programme will keep every client's data in a separate file. 
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
